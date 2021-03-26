@@ -1,0 +1,148 @@
+body{
+    font-size: 20px;
+    background-color:#005066;
+    color:seashell;
+    margin: 0;
+    padding: 0;
+    font-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2em;
+    
+}
+
+header {
+    background-color: #708090;
+    object-fit: contain;
+    color:cornflowerblue;
+    padding: 10px;
+    border:0;
+    overflow: hidden;
+}
+
+span{
+    font-size:50px;
+    color: cornsilk;
+}
+
+#container p{
+    font-size: 25px;
+}
+
+nav ul li{
+    font-size: 30px;
+    display: inline;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+header nav{
+    margin-top: 70px;
+    float:right
+}
+
+header #container{
+    float: left;
+}
+
+ul a:hover{
+    color:#00fa99;
+}
+
+ul a{
+    color:cornsilk;
+}
+
+.mclaren{
+    text-align: center;
+    background:steelblue;
+    color:#ffffff;
+    border-top: 6px black solid;
+    border-bottom: 6px black solid;
+
+}
+.mclaren h2{
+    padding-top: 20px;
+    margin: 0;
+}
+
+#Subscribe{
+    background-color: #e6e6fa;
+    color: black;
+    border-bottom: black 6px solid;
+    overflow: hidden;
+}
+
+#Subscribe .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container h1{
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+form{
+    font-size: 70px;
+    padding-bottom: 10px;
+    padding-right: 100px;
+
+} 
+
+img{
+    height: fit-content;
+    width: fit-content;
+}
+
+#cars1 .container{
+    display: flex;
+}
+#cars1 .cars2{
+    float:right;
+}
+
+.cars2{
+    background-color:black;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+}
+.cars2 img{
+    padding: 10px;
+}
+
+.cars h1{
+    padding:0;
+    margin: 0;
+    border: 0;
+}
+footer{
+    background-color: #708090;
+    color: black;
+    border: 2px solid red;
+    text-align: center;
+}
+
+#deed .container .auto{
+    display: flex;
+}
+
+.auto{
+    padding-left: 20px;
+    border:2px solid black;
+    justify-content: space-between;
+}
+
+div .red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+
+
+
+
+
+
